@@ -1,8 +1,9 @@
 <?php
 // connecting to database
-$conn = mysqli_connect("3.7.138.111", "root", "xoxbhtmhycspebzfvfkfnqkfgdppfosz", "bot", 6885) or die("Database Error");
+$conn = mysqli_connect("localhost", "root", "", "bot") or die("Database Error");
 
 // getting user message through ajax
+
 $getMesg = mysqli_real_escape_string($conn, $_POST['text']);
 
 //checking user query to database query
