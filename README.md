@@ -16,8 +16,6 @@ The main objectives of this project were to:
 - Design database tables based on the data needed for the application's functionalities.
 - Apply a minimalistic web design to the project.
 
-To achieve these objectives, the project was divided into several stages. The first stage involved designing the database schema and creating the necessary tables. The second stage involved building the front-end of the application using HTML, CSS, and Javascript. The third stage involved building the back-end of the application using PHP and MySQL.
-
 ## Key Features
 
 The Chat Bot offers the following key feature:
@@ -25,8 +23,6 @@ The Chat Bot offers the following key feature:
 - Efficiently execute SQL queries in MySQL for storing and retrieving data.
 - Design database tables based on the data needed for the application's functionalities.
 - Apply a minimalistic web design to the project.
-
-To achieve these objectives, the project was divided into several stages. The first stage involved designing the database schema and creating the necessary tables. The second stage involved building the front-end of the application using HTML, CSS, and Javascript. The third stage involved building the back-end of the application using PHP and MySQL.
 
 ## What I've Learned
 
